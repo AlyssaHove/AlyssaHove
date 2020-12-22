@@ -11,11 +11,13 @@ I am also a proud Juniata College grad :eagle:.
 - Data Oriented Design 
 - Unreal Engine 4
 
-💬 Ask me about 
-
 :cherry_blossom: Current goals for 2021
 - [ ] Compete in 5+ game jams
 - [ ] Complete my personal site in early Feb
+- [ ] Do and complete [JavaScript 30](https://javascript30.com/)
+- [ ] Get better at Arduino
+- [ ] Publish my IOS game
+- [ ] Get better at design
 
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/alyssaehove"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img>
