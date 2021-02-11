@@ -28,6 +28,7 @@ I am also a proud Juniata College grad :eagle:.
     - [ ] Do a project using a FGPA
 - [ ] Publish my IOS game
 - [ ] Get better at design
+- [ ] Pixel art Card Challenge (5/90)
 
 February :heart: Goals 
   - [ ] Doodle Jam (Feb 15th - 19th)
@@ -41,7 +42,7 @@ March :shamrock: Goals
    - [ ] Get the BF compiler in basic working order and unprivated
    - [ ] Complete 10 cards in my Pixel art challenge 
    
-April :rain: Goals
+April :cloud: Goals
    - [ ] The Creative Habit Jam (All March) I will not post here but will link my itch.io
    - [ ] Get the BF compiler in basic working order and unprivated
    - [ ] Ludum Dare 48 April 2021
