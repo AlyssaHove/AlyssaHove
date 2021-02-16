@@ -1,22 +1,27 @@
 ### Hi there :frog::rainbow:
-My name is Alyssa but you can call me Al! I am currently working as a Junior Software Developer. <br>
-I am also a proud Juniata College grad :eagle:.
+My name is Alyssa but you can call me Al! I am currently working as a Junior Software Developer. 
+I am also a proud Juniata alum :eagle:.
 
-🔭 I’m currently personally working on 
-- A game coming to IOS soon :zipper_mouth_face:
-- A BF compiler in Perl 6 (Raku) :butterfly:
+🔭 I’m currently personally working on a lot of interesting side projects 
+- A game coming to IOS hopefully soon this year :zipper_mouth_face:
+- A BF compiler in C++
 - A Kotlin compiler in C++ 
+- A drawing app for Android. 
+- A secret android project that deals partially with executive functioning issues 
+- a personal portfolio site in Angular 11
 
 🌱 I’m currently learning... 
 - Kotlin 
+- Blender
 - Data Oriented Design 
+- Shaders
 - Art design
 - Unity 2020.2
 - Unreal Engine 4
+- React
 
 :cherry_blossom: Current personal goals for 2021
-- [ ] Do for fun / compete in at least 5+ game jams this year ( Only counting game jams that started this year) Will link code and up private after jam
-    - [ ] Doodle Jam (Feb 15th - 19th)
+- [ ] Do for fun / compete in at least 5+ game jams this year ( Only counting game jams that started this year) Will link code and unprivate after jam
     - [ ] Wowie Jam 3.0 (Feb 26th - Mar 1st)
     - [ ] Ludum Dare 48 April 2021
     - [ ] HAGT 6/11 - 6/20
@@ -28,25 +33,24 @@ I am also a proud Juniata College grad :eagle:.
     - [ ] Do a project using a FGPA
 - [ ] Publish my IOS game
 - [ ] Get better at design
-- [ ] Pixel art Card Challenge (5/90)
+- [ ] Pixel art Card Challenge (14/90) the Zodiac and a tarot deck
 
 February :heart: Goals 
-  - [ ] Doodle Jam (Feb 15th - 19th)
   - [ ] Wowie Jam 3.0 (Feb 26th - Mar 1st) 
   - [ ] Get a proof of concept done
   - [ ] Get my personal site in a running state
-  - [ ] Complete 12 cards in my Pixel art challenge 
+  - [x] Complete 12 cards in my Pixel art challenge 
 
 March :shamrock: Goals
    - [ ] The Creative Habit Jam (All March) I will not post here but will link my itch.io
    - [ ] Get the BF compiler in basic working order and unprivated
-   - [ ] Complete 10 cards in my Pixel art challenge 
+   - [ ] Complete 10 cards in my Pixel art challenge (2/10)
    
 April :cloud: Goals
-   - [ ] The Creative Habit Jam (All March) I will not post here but will link my itch.io
-   - [ ] Get the BF compiler in basic working order and unprivated
    - [ ] Ludum Dare 48 April 2021
    - [ ] Complete 10 cards in my Pixel art challenge 
-   - [ ] TBA
+   - [ ] Get the Kotlin in very basic working order and unprivated
 
-<br>
+May :Flower: Goals
+   - [ ] Ludum Dare 48 April 2021
+   - [ ] Complete 10 cards in my Pixel art challenge 
