@@ -2,8 +2,7 @@
 My name is Alyssa but you can call me Al! I am currently working as a Junior Software Developer. 
 I am also a proud Juniata alum :eagle:.
 
-🔭 I’m currently personally working on a lot of interesting side projects 
-- A game coming to IOS hopefully soon this year :zipper_mouth_face:
+🔭 I’m currently personally working/ planning out on a lot of interesting side projects 
 - A BF compiler in C++
 - A Kotlin compiler in C++ 
 - A drawing app for Android. 
@@ -38,19 +37,23 @@ I am also a proud Juniata alum :eagle:.
 February :heart: Goals 
   - [ ] Wowie Jam 3.0 (Feb 26th - Mar 1st) 
   - [ ] Get a proof of concept done
-  - [ ] Get my personal site in a running state
   - [x] Complete 12 cards in my Pixel art challenge 
 
 March :shamrock: Goals
    - [ ] The Creative Habit Jam (All March) I will not post here but will link my itch.io
    - [ ] Get the BF compiler in basic working order and unprivated
    - [ ] Complete 10 cards in my Pixel art challenge (2/10)
+   - [ ] Get my personal site in a running state
+
    
 April :cloud: Goals
    - [ ] Ludum Dare 48 April 2021
    - [ ] Complete 10 cards in my Pixel art challenge 
    - [ ] Get the Kotlin in very basic working order and unprivated
+   - [ ] Get the Android app in very basic working order and unprivated
 
-May :Flower: Goals
+
+May :tulip: Goals
    - [ ] Ludum Dare 48 April 2021
    - [ ] Complete 10 cards in my Pixel art challenge 
+   - [ ] Get the Android app in very basic working order and unprivated
