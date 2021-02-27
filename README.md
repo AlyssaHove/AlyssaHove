@@ -5,9 +5,8 @@ I am also a proud Juniata alum :eagle:.
 🔭 I’m currently personally working/ planning out on a lot of interesting side projects 
 - A BF compiler in C++
 - A Kotlin compiler in C++ 
-- A drawing app for Android. 
-- A secret android project that deals partially with executive functioning issues 
 - a personal portfolio site in Angular 11
+- A narritive game in Unity
 
 🌱 I’m currently learning... 
 - Kotlin 
@@ -15,7 +14,7 @@ I am also a proud Juniata alum :eagle:.
 - Data Oriented Design 
 - Shaders
 - Art design
-- Unity 2020.2
+- Unity 2020.3
 - Unreal Engine 4
 - React
 
@@ -30,13 +29,11 @@ I am also a proud Juniata alum :eagle:.
 - [ ] Get better at Microcontroller Sketching
     - [ ] Create a universal remote
     - [ ] Do a project using a FGPA
-- [ ] Publish my IOS game
 - [ ] Get better at design
 - [ ] Pixel art Card Challenge (14/90) the Zodiac and a tarot deck
 
 February :heart: Goals 
   - [ ] Wowie Jam 3.0 (Feb 26th - Mar 1st) 
-  - [ ] Get a proof of concept done
   - [x] Complete 12 cards in my Pixel art challenge 
 
 March :shamrock: Goals
@@ -50,10 +47,6 @@ April :cloud: Goals
    - [ ] Ludum Dare 48 April 2021
    - [ ] Complete 10 cards in my Pixel art challenge 
    - [ ] Get the Kotlin in very basic working order and unprivated
-   - [ ] Get the Android app in very basic working order and unprivated
-
 
 May :tulip: Goals
-   - [ ] Ludum Dare 48 April 2021
    - [ ] Complete 10 cards in my Pixel art challenge 
-   - [ ] Get the Android app in very basic working order and unprivated
