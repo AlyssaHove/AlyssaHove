@@ -20,7 +20,6 @@ I am also a proud Juniata alum :eagle:.
 
 :cherry_blossom: Current personal goals for 2021
 - [ ] Do for fun / compete in at least 5+ game jams this year ( Only counting game jams that started this year) Will link code and unprivate after jam
-    - [ ] Wowie Jam 3.0 (Feb 26th - Mar 1st)
     - [ ] Ludum Dare 48 April 2021
     - [ ] HAGT 6/11 - 6/20
     - [ ] Ludum Dare 49 October 2021
@@ -32,16 +31,11 @@ I am also a proud Juniata alum :eagle:.
 - [ ] Get better at design
 - [ ] Pixel art Card Challenge (14/90) the Zodiac and a tarot deck
 
-February :heart: Goals 
-  - [ ] Wowie Jam 3.0 (Feb 26th - Mar 1st) 
-  - [x] Complete 12 cards in my Pixel art challenge 
-
 March :shamrock: Goals
    - [ ] The Creative Habit Jam (All March) I will not post here but will link my itch.io
    - [ ] Get the BF compiler in basic working order and unprivated
    - [ ] Complete 10 cards in my Pixel art challenge (2/10)
    - [ ] Get my personal site in a running state
-
    
 April :cloud: Goals
    - [ ] Ludum Dare 48 April 2021
