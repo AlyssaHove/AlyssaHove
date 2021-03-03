@@ -32,7 +32,6 @@ I am also a proud Juniata alum :eagle:.
 - [ ] Pixel art Card Challenge (14/90) the Zodiac and a tarot deck
 
 March :shamrock: Goals
-   - [ ] The Creative Habit Jam (All March) I will not post here but will link my itch.io
    - [ ] Get the BF compiler in basic working order and unprivated
    - [ ] Complete 10 cards in my Pixel art challenge (2/10)
    - [ ] Get my personal site in a running state
