@@ -14,7 +14,7 @@ I am also a proud Juniata alum :eagle:.
 - Shaders
 - Art design
 - Unity 2020.3
-- Unreal Engine 5
+- Unreal Engine 4
 - HaxeFlixel
 - React
 
@@ -29,8 +29,8 @@ I am also a proud Juniata alum :eagle:.
 - [ ] Pixel art Card Challenge (14/90) the Zodiac and a tarot deck
    
    🦁 August goals
-- [ ] ahaha
-- [ ] aa
+- [ ] Finish graphical code practices
+- [ ] Finish personal site
    🍂 September goals
 - [ ] 
 - [ ] 
