@@ -1,6 +1,5 @@
 ### Hi there :frog::rainbow:
 My name is Alyssa but you can call me Al! I am currently working as a Junior Software Developer. 
-I am also a proud Juniata alum :eagle:.
 
 🔭 I’m currently personally working/ planning out on a lot of interesting side projects 
 - A BF compiler in C++
@@ -19,7 +18,7 @@ I am also a proud Juniata alum :eagle:.
 - React
 
 :cherry_blossom: Current personal goals for 2021
-- [ ] Do for fun / compete in at least 5+ game jams this year ( Only counting game jams that started this year) Will link code and unprivate after jam
+- [ ] Do for fun / compete in at least 3+ game jams this year ( Only counting game jams that started this year) Will link code and unprivate after jam
 - [x] Start 
     - [ ] complete my personal site
 - [ ] Get better at Microcontroller Sketching
@@ -28,19 +27,13 @@ I am also a proud Juniata alum :eagle:.
 - [ ] Get better at design
 - [ ] Pixel art Card Challenge (14/90) the Zodiac and a tarot deck
    
-   🦁 August goals
+   🍂 September goals
 - [ ] Finish graphical code practices
 - [ ] Finish personal site
-   🍂 September goals
-- [ ] 
-- [ ] 
    👻 October goals
-   - [ ] 
-   - [ ] 
+- [ ] Spoopy Jam 3: Spoopy as Heck
+- [ ] Finish BF compiler
 🍁November Goals
-   - [ ]  
-   - [ ]  
-   - [ ]  
  ❄️December Goals
-   - [ ]  historically accurate game jam
-   - [ ]  
+- [ ]  historically accurate game jam
+- [ ]  7dfps 2021 first person game in seven days
