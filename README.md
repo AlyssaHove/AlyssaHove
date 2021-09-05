@@ -27,13 +27,17 @@ My name is Alyssa but you can call me Al! I am currently working as a Junior Sof
 - [ ] Get better at design
 - [ ] Pixel art Card Challenge (14/90) the Zodiac and a tarot deck
    
-   🍂 September goals
+🍂 September goals
 - [ ] Finish graphical code practices
 - [ ] Finish personal site
-   👻 October goals
+
+👻 October goals
 - [ ] Spoopy Jam 3: Spoopy as Heck
 - [ ] Finish BF compiler
+
 🍁November Goals
+
  ❄️December Goals
+ 
 - [ ]  historically accurate game jam
 - [ ]  7dfps 2021 first person game in seven days
