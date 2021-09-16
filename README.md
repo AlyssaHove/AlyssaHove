@@ -1,5 +1,5 @@
 ### Hi there :frog::rainbow:
-My name is Alyssa but you can call me Al! I am currently working as a Junior Software Developer. 
+My name is Alyssa but you can call me Al
 
 🔭 I’m currently personally working/ planning out on a lot of interesting side projects 
 - A BF compiler in C++
@@ -32,10 +32,12 @@ My name is Alyssa but you can call me Al! I am currently working as a Junior Sof
 - [ ] Finish personal site
 
 👻 October goals
-- [ ] Spoopy Jam 3: Spoopy as Heck
 - [ ] Finish BF compiler
+- [ ] Adaptive Music Jam
 
 🍁November Goals
+- [ ] Finish BF compiler
+- [ ] NaGaDeMon 2021
 
  ❄️December Goals
  
