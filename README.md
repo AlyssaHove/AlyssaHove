@@ -24,8 +24,7 @@ My name is Alyssa but you can call me Al
 - [ ] Get better at Microcontroller Sketching
     - [ ] Create a universal remote
     - [ ] Do a project using a FGPA
-- [ ] Get better at design
-- [ ] Pixel art Card Challenge (14/90) the Zodiac and a tarot deck
+- [ ] Pixel art Card Challenge (40/90) the Zodiac and a tarot deck
    
 🍂 September goals
 - [ ] Finish graphical code practices
@@ -33,13 +32,13 @@ My name is Alyssa but you can call me Al
 
 👻 October goals
 - [ ] Finish BF compiler
-- [ ] Adaptive Music Jam
+- [ ] [Adaptive Music Jam](https://itch.io/jam/adaptive-music-jam)
 
 🍁November Goals
 - [ ] Finish BF compiler
-- [ ] NaGaDeMon 2021
+- [ ] [NaGaDeMon 2021](https://itch.io/jam/nagademon-2021)
 
  ❄️December Goals
  
-- [ ]  historically accurate game jam
-- [ ]  7dfps 2021 first person game in seven days
+- [ ]  [historically accurate game jam](https://itch.io/jam/historically-accurate-5)
+- [ ]  [7dfps 2021 first person game in seven days](https://itch.io/jam/7dfps-2021)
