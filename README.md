@@ -25,13 +25,12 @@ My name is Alyssa but you can call me Al
     - [ ] Create a universal remote
     - [ ] Do a project using a FGPA
 - [ ] Pixel art Card Challenge (40/90) the Zodiac and a tarot deck
-   
-🍂 September goals
-- [ ] Finish graphical code practices
 
 👻 October goals
+- [ ] Do even more graphical code practices
 - [ ] Finish personal site
 - [ ] [Adaptive Music Jam](https://itch.io/jam/adaptive-music-jam)
+- [ ] [Devtober](https://itch.io/jam/devtober-2021)
 - [ ] Pixeltober (0/31)
 
 🍁November Goals
