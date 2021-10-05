@@ -30,8 +30,7 @@ My name is Alyssa but you can call me Al
 - [ ] Do even more graphical code practices
 - [ ] Finish personal site
 - [ ] [Adaptive Music Jam](https://itch.io/jam/adaptive-music-jam)
-- [ ] [Devtober](https://itch.io/jam/devtober-2021)
-- [ ] Pixeltober (0/31)
+- [ ] Pixeltober (6/31)
 
 🍁November Goals
 - [ ] Finish BF compiler
