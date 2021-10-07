@@ -34,7 +34,7 @@ My name is Alyssa but you can call me Al
 - [ ] Pixeltober (6/31)
 
 🍁November Goals
-- [ ] Finish BF compiler
+- [ ] [Game off](https://itch.io/jam/game-off-2021)
 - [ ] [Crunchless Challenge](https://itch.io/jam/crunchless-challenge)
 
  ❄️December Goals
