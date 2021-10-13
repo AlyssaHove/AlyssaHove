@@ -29,7 +29,7 @@ My name is Alyssa but you can call me Al
 👻 October goals
 - [ ] Do even more graphical code practices
 - [ ] Finish personal site
-- [ ] [Adaptive Music Jam](https://itch.io/jam/adaptive-music-jam)
+- [ ] [HaxeJam 2021](https://itch.io/jam/haxejam-2021)
 - [ ] [OST Jam Vol. 4](https://itch.io/jam/ost-jam-vol-4)
 - [ ] Pixeltober (6/31)
 
