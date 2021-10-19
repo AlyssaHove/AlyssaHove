@@ -29,9 +29,8 @@ My name is Alyssa but you can call me Al
 👻 October goals
 - [ ] Do even more graphical code practices
 - [ ] Finish personal site
-- [ ] [HaxeJam 2021](https://itch.io/jam/haxejam-2021)
 - [ ] [OST Jam Vol. 4](https://itch.io/jam/ost-jam-vol-4)
-- [ ] Pixeltober (6/31)
+- [ ] Pixeltober (20/31)
 
 🍁November Goals
 - [ ] [Game off](https://itch.io/jam/game-off-2021)
