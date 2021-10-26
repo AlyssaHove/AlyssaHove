@@ -21,16 +21,12 @@ My name is Alyssa but you can call me Al
 - [ ] Do for fun / compete in at least 3+ game jams this year ( Only counting game jams that started this year) Will link code and unprivate after jam
 - [x] Start 
     - [ ] complete my personal site
-- [ ] Get better at Microcontroller Sketching
-    - [ ] Create a universal remote
-    - [ ] Do a project using a FGPA
 - [ ] Pixel art Card Challenge (40/90) the Zodiac and a tarot deck
 
 👻 October goals
 - [ ] Do even more graphical code practices
 - [ ] Finish personal site
-- [ ] [OST Jam Vol. 4](https://itch.io/jam/ost-jam-vol-4)
-- [ ] Pixeltober (20/31)
+- [x] Pixeltober (20/31)
 
 🍁November Goals
 - [ ] [Game off](https://itch.io/jam/game-off-2021)
