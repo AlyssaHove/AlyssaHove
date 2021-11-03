@@ -23,11 +23,6 @@ My name is Alyssa but you can call me Al
     - [ ] complete my personal site
 - [ ] Pixel art Card Challenge (40/90) the Zodiac and a tarot deck
 
-👻 October goals
-- [ ] Do even more graphical code practices
-- [ ] Finish personal site
-- [x] Pixeltober (20/31)
-
 🍁November Goals
 - [ ] [Game off](https://itch.io/jam/game-off-2021)
 - [ ] [Crunchless Challenge](https://itch.io/jam/crunchless-challenge)
