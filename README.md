@@ -21,11 +21,8 @@ My name is Alyssa but you can call me Al
 - [ ] Do for fun / compete in at least 3+ game jams this year ( Only counting game jams that started this year) Will link code and unprivate after jam
 - [x] Start 
     - [ ] complete my personal site
-- [ ] Pixel art Card Challenge (40/90) the Zodiac and a tarot deck
+- [ ] Pixel art Card Challenge (60/90) the Zodiac and a tarot deck
 
-🍁November Goals
-- [ ] [Game off](https://itch.io/jam/game-off-2021)
-- [ ] [Crunchless Challenge](https://itch.io/jam/crunchless-challenge)
 
  ❄️December Goals
 - [ ]  [historically accurate game jam](https://itch.io/jam/historically-accurate-5)
