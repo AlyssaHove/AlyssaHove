@@ -13,6 +13,7 @@ My name is Alyssa but you can call me Al
 - Unreal Engine 4
 - Godot
 - HaxeFlixel
-- React
 
-New years 2023 goals.....
+April Goals ⛈️:
+- [ ] Get started with my AWS Cert
+- [ ] Get a few game prototypes done
